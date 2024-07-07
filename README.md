@@ -1,5 +1,10 @@
 # Mobile Bank project ![React Native](https://img.icons8.com/color/48/000000/react-native.png) ![Python](https://img.icons8.com/color/48/000000/python.png)
 
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
 ## Context :
 School project to be carried out in groups, consisting of developing the user interface of a banking application using React Native. This application will allow users to register, log in, make transfers, order cheque books and consult test information. The various functionalities need to interact with a REST API that I've previously configured.
 
