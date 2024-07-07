@@ -24,7 +24,9 @@ School project to be carried out in groups, consisting of developing the user in
 - create a expo app : Expo init nomDuProjet
 - Start project : npm start
 
-### Interface
+### Screens
 
 #### Login Screen
-![Login Screen](assets/screenBank.png)
+![Login Screen](assets/screenLogin.png)
+#### Transfer Screen
+![Transfer Screen](assets/screenBank.png)
