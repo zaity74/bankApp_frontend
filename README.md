@@ -6,8 +6,8 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## Team :
-- ![Frédéric Zai](https://github.com/fzai.png) Frédéric Zai
-- ![Adam Prieto](https://github.com/adamp.png) Adam Prieto
+- <img src="https://github.com/fzai.png" width="50" height="50" style="border-radius: 50%;"> Frédéric Zai
+- <img src="https://github.com/adamp.png" width="50" height="50" style="border-radius: 50%;"> Adam Prieto
 
 ## Context :
 School project to be carried out in groups, consisting of developing the user interface of a banking application using React Native. This application will allow users to register, log in, make transfers, order cheque books and consult test information. The various functionalities need to interact with a REST API that I've previously configured.
