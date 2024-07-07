@@ -24,14 +24,15 @@ School project to be carried out in groups, consisting of developing the user in
 - **Database**:
   - *MySQL*
 
-### Commands : 
+## Commands : 
 - React Native install : `npm install -g react-native-cli`
 - React Native for web : `npx expo install react-native-web react-dom @expo/metro-runtime`
 - Expo cli install : `npm install -g expo-cli`
 - Create an expo app : `expo init nomDuProjet`
 - Start project : `npm start`
+- Tap w to lunch the web app
 
-### Screens
+## Screens
 
 #### Login Screen
 ![Login Screen](assets/screenLogin.png)
