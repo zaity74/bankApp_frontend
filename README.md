@@ -40,7 +40,7 @@ School project to be carried out in groups, consisting of developing the user in
 #### Menu Screen
 ![Menu Screen](assets/screenBank.png)
 #### Transfer Screen
-![Transfer Screen](assets/screenTransfer.png)
+![Transfer Screen](assets/screenTransfer1.png)
 #### Order Checkbook Screen
 ![Order Screen](assets/screenOrder.png)
 
