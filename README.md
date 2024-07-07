@@ -35,5 +35,12 @@ School project to be carried out in groups, consisting of developing the user in
 
 #### Login Screen
 ![Login Screen](assets/screenLogin.png)
+#### Register Screen
+![Register Screen](assets/screenRegister.png)
+#### Menu Screen
+![Menu Screen](assets/screenBank.png)
 #### Transfer Screen
-![Transfer Screen](assets/screenBank.png)
+![Transfer Screen](assets/screenTransfer.png)
+#### Order Checkbook Screen
+![Order Screen](assets/screenOrder.png)
+
