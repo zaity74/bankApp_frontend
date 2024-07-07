@@ -23,3 +23,8 @@ School project to be carried out in groups, consisting of developing the user in
 - Expo cli install : npm install -g expo-cli
 - create a expo app : Expo init nomDuProjet
 - Start project : npm start
+
+### Interface
+
+#### Login Screen
+![Login Screen](assets/screenBank.png)
